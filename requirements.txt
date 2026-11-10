@@ -1,0 +1,10 @@
+zstandard
+Pillow
+numpy
+texture2ddecoder
+astc-encoder-py
+fonttools
+shapely
+# dev
+pytest
+pyinstaller
